@@ -1,0 +1,5 @@
+Chưa có cơ chế Local Search trên 1 route (tất cả trc nay đều là local search trên nhiều route với nhau) => Kẹt tại các bài toán mà thời gian sát nhau
+C102
+
+Thêm 1 local search trên 1 route
+Thêm 1 cơ chế trên 1 route.
